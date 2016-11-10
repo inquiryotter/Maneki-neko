@@ -1,0 +1,2 @@
+# Maneki-neko
+Cats
